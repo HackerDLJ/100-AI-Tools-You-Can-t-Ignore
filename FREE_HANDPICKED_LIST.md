@@ -42,4 +42,4 @@ Many tools refresh their free credits daily, so consistent light usage often fee
 
 ---
 
-**I spent four months** learning, discovering, and researching these AI tools to bring you this comprehensive repository.
+### Made with ❤️ after four months of research.
