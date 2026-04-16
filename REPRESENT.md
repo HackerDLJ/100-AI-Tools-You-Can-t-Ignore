@@ -9,13 +9,13 @@
 
 <p align="center">
   <a href="https://github.com/yourusername/100-ai-tools-repository/stargazers">
-    <img src="https://img.shields.io/github/stars/yourusername/100-ai-tools-repository?style=for-the-badge" alt="Stars">
+    <img src="https://img.shields.io/github/stars/HackerDLJ/100-ai-tools-repository?style=for-the-badge" alt="Stars">
   </a>
   <a href="https://github.com/yourusername/100-ai-tools-repository/forks">
-    <img src="https://img.shields.io/github/forks/yourusername/100-ai-tools-repository?style=for-the-badge" alt="Forks">
+    <img src="https://img.shields.io/github/forks/HackerDLJ/100-ai-tools-repository?style=for-the-badge" alt="Forks">
   </a>
   <a href="https://github.com/yourusername/100-ai-tools-repository/issues">
-    <img src="https://img.shields.io/github/issues/yourusername/100-ai-tools-repository?style=for-the-badge" alt="Issues">
+    <img src="https://img.shields.io/github/issues/HackerDLJ/100-ai-tools-repository?style=for-the-badge" alt="Issues">
   </a>
 </p>
 
