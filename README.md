@@ -67,6 +67,7 @@ Whether you're a developer, content creator, marketer, student, or entrepreneur,
 21. **[HeyGen.com](https://www.heygen.com)** – avatars that talk (AI video platform for personalized talking avatars).
 22. **[D-ID.com](https://www.d-id.com)** – face animations (brings photos to life with talking head videos).
 23. **[Pictory.ai](https://pictory.ai/)** – text to video (automatically turns scripts or blogs into engaging videos).
+24. **[videos.social](https://videos.social/)** – faceless video from blogs, PDFs, and prompts (1 free render; 1 credit = 1 render).
 24. **[Opus.pro](https://www.opus.pro/)** – long video into shorts (AI that turns long-form content into viral short videos).
 25. **[Fliki.ai](https://fliki.ai)** – faceless video creator (text-to-video with stock footage and voiceovers).
 26. **[Descript.com](https://www.descript.com)** – edit video like docs (text-based video/audio editing with Overdub AI).
