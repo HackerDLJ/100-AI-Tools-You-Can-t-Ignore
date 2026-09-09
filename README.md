@@ -2,6 +2,8 @@
 
 A curated collection of 100 powerful AI tools across multiple categories. Ideal for developers, creators, marketers, designers, and productivity enthusiasts.
 
+<a href="https://github.com/HackerDLJ/100-Hacking-Tools-.git" target="_blank"><img src="https://trendshift.io/api/badge/repositories/5584" alt="LeCoupa%2Fawesome-cheatsheets | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+
 #### Note: 
 I spent **four months** learning, discovering, and researching these AI tools to bring you this comprehensive repository.
 
