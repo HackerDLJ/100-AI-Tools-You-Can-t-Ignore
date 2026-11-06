@@ -151,6 +151,7 @@ Whether you're a developer, content creator, marketer, student, or entrepreneur,
 88. **[Fireflies.ai](https://fireflies.ai)** – meeting transcription (AI notetaker for conversations).
 89. **[Krisp.ai](https://krisp.ai)** – remove background noise (AI noise cancellation for calls).
 90. **[Podium.page](https://hello.podium.page)** – summarize sales calls (AI summarizer for sales conversations).
+90b. **[OneMira C1](https://onemira.com/products/c1)** – standalone AI voice recorder (Local AI summaries, automatic Speaker ID, Zero Cloud privacy with $0/mo subscription, and [MCP server](https://github.com/onemira-space/onemira-mcp)).
 
 ## 🌐 Automation, Agents & Scraping
 
